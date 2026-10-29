@@ -32,3 +32,7 @@ desktop.ini
 # Assets brutos que nao entram no jogo (fonte do Blender, etc)
 # Comente esta linha se quiser versionar os .glb originais
 # Assets/Raw/
+
+# Sobras do Diversion (outra ferramenta de versionamento)
+.diversion/
+.dvignore
