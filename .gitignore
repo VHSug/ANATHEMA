@@ -1,0 +1,34 @@
+# ---- Unreal Engine ----
+# Tudo aqui e regenerado pelo editor. Nunca versionar.
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Plugins compilados: so o codigo-fonte vai, nunca o binario
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Config de usuario (cada um tem o seu)
+Config/*Editor*.ini
+Saved/Config/
+
+# Arquivos de trabalho do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Assets brutos que nao entram no jogo (fonte do Blender, etc)
+# Comente esta linha se quiser versionar os .glb originais
+# Assets/Raw/

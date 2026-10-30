@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.526ec713-3eaa-4f0a-8774-37e2758e9600",
+  "RepoID": "dv.repo.55a8a918-2121-4574-9c5c-4008d076cbd8",
+  "Path": "C:\\Users\\Pedro\\Downloads\\ANATHEMA_Versioned",
+  "AccountID": "GitHub_101872181",
+  "BranchID": "dv.branch.8",
+  "BranchName": "pedro-coloca-som",
+  "CommitID": "dv.commit.2",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "ANATHEMA",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
